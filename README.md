@@ -2,11 +2,11 @@
   This project involves developing a Streamlit app that scrapes data from "Practo" using Beautiful Soup. Users input location and specialist to retrieve and display doctor's details, including names, clinics, experience, and patient recommendations. The user-friendly interface ensures easy access to this information.
 
 **OBJECTIVES:**
-
-  •To develop a user-friendly Streamlit application that allows users to search for doctors based on location and specialty.
-  •To scrape data from the Practo website using Beautiful Soup, ensuring the retrieval of accurate and up-to-date information.
-  •To display comprehensive details about doctors, including their names, clinic names, years of experience, and patient recommendations.
-  •To enhance the accessibility and transparency of healthcare information, making it easier for individuals to find the right medical professionals.
+<ul>
+  <li>To develop a user-friendly Streamlit application that allows users to search for doctors based on location and specialty.</li>
+  <li>To scrape data from the Practo website using Beautiful Soup, ensuring the retrieval of accurate and up-to-date information.</li>
+  <li>To display comprehensive details about doctors, including their names, clinic names, years of experience, and patient recommendations.</li>
+  <li>To enhance the accessibility and transparency of healthcare information, making it easier for individuals to find the right medical professionals.</li></ul>
 
 **TECHNOLOGIES USED:**
 
