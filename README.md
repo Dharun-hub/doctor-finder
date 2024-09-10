@@ -1,4 +1,4 @@
-# **Doctor-Finder**
+# Doctor-Finder
   This project involves developing a Streamlit app that scrapes data from "Practo" using Beautiful Soup. Users input location and specialist to retrieve and display doctor's details, including names, clinics, experience, and patient recommendations. The user-friendly interface ensures easy access to this information.
 
 **OBJECTIVES:**
@@ -9,28 +9,28 @@
   <li>To enhance the accessibility and transparency of healthcare information, making it easier for individuals to find the right medical professionals.</li></ul>
 
 **TECHNOLOGIES USED:**
-
-  •Streamlit
-  •Beautiful Soup
-  •Requests
-  •Pillow
-  •Practo
+<ul>
+  <li>Streamlit</li>
+  <li>Beautiful Soup</li>
+  <li>Requests</li>
+  <li>Pillow</li>
+  <li>Practo</li></ul>
   
 **METHODOLOGY:**
+<ul>
+<li>**Data Collection:**
+    <ul><li>Web Scraping: Using Beautiful soup and Requests to scrape data from the HTML page.</li>
+    <li>User input: Collecting location and specialist from the user through the streamlit application.</li></ul>
 
-**- Data Collection:**
-    •Web Scraping: Using Beautiful soup and Requests to scrape data from the HTML page.
-    •User input: Collecting location and specialist from the user through the streamlit application.
+<li>**Data Preprocessing:**
+    <ul><li>Parsing HTML: Using Beautiful soup to parse the HTML content of the practo website.</li>
+    <li>Extracting information: Identifying and extracting the relevant information such as doctor names, clinic names, years of experience, and patient recommendations.</li>
+    <li>Data Cleaning: Cleaning and organizing the extracted data for display.</li></ul>
 
-**- Data Preprocessing:**
-    •Parsing HTML: Using Beautiful soup to parse the HTML content of the practo website.
-    •Extracting information: Identifying and extracting the relevant information such as doctor names, clinic names, years of experience, and patient recommendations.
-    •Data Cleaning: Cleaning and organizing the extracted data for display.
-
-- **Data Display:**
-    •Streamlit Interface: Designing an user-friendly interface to gather inputs    from the user and to display the scraped data.
-    •Interactive Elements: Adding interactive elements such as buttons and input boxes to enhance the user experience.
-
+<li>**Data Display:**
+    <ul><li>Streamlit Interface: Designing an user-friendly interface to gather inputs    from the user and to display the scraped data.</li>
+    <li>Interactive Elements: Adding interactive elements such as buttons and input boxes to enhance the user experience.</li></ul>
+</ul>
   **OUTPUTS:**
   
 ![image](https://github.com/user-attachments/assets/81e9da5a-d594-4a64-bc25-4321b99c9462)
